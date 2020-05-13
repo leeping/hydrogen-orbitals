@@ -1,0 +1,9 @@
+name: orbitals
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - sympy
+  - pyvista
+  - itkwidgets
