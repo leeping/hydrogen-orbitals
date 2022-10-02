@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyterlab=2
-  - nodejs
   - numpy
   - sympy
   - pyvista
   - itkwidgets
+  - pip
+  pip:
+    - itkwidgets[lab]>=1.0a8
