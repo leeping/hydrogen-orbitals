@@ -8,5 +8,5 @@ dependencies:
   - pyvista
   - itkwidgets
   - pip
-  pip:
+  - pip:
     - itkwidgets[lab]>=1.0a8
