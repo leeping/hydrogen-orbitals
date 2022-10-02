@@ -7,6 +7,5 @@ dependencies:
   - sympy
   - pyvista
   - itkwidgets
-  - pip
-  - pip:
-    - itkwidgets[lab]>=1.0a8
+  - jupyterlab=2
+  - nodejs
