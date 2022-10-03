@@ -5,7 +5,7 @@ channels:
 dependencies:
   - numpy
   - sympy
-  - pyvista
-  - itkwidgets
+  - pyvista=0.36.1
+  - itkwidgets=0.32.0
   - jupyterlab=2
   - nodejs
