@@ -1,2 +1,3 @@
 # Copied from https://pypi.org/project/itkwidgets/
+export NODE_OPTIONS=--openssl-legacy-provider
 jupyter labextension install --debug --dev-build=False --minimize=False @jupyter-widgets/jupyterlab-manager jupyter-matplotlib jupyterlab-datawidgets itkwidgets
