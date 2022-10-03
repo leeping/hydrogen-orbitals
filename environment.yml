@@ -9,3 +9,4 @@ dependencies:
   - itkwidgets=0.32.0
   - jupyterlab=2
   - nodejs
+  - zarr
