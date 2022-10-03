@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copied from https://pypi.org/project/itkwidgets/
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib jupyterlab-datawidgets itkwidgets
 # Copied from github.com/pyvista/pyvista-examples
 export DISPLAY=:99.0
 export PYVISTA_OFF_SCREEN=true

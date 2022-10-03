@@ -8,3 +8,4 @@ dependencies:
   - pyvista
   - itkwidgets
   - jupyterlab=2
+  - nodejs
