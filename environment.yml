@@ -7,3 +7,4 @@ dependencies:
   - sympy
   - pyvista
   - itkwidgets
+  - jupyterlab=2
