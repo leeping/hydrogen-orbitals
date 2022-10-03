@@ -1,2 +1,2 @@
 # Copied from https://pypi.org/project/itkwidgets/
-jupyter labextension install --dev-build=False --minimize=False @jupyter-widgets/jupyterlab-manager jupyter-matplotlib jupyterlab-datawidgets itkwidgets
+jupyter labextension install --debug --dev-build=False --minimize=False @jupyter-widgets/jupyterlab-manager jupyter-matplotlib jupyterlab-datawidgets itkwidgets
